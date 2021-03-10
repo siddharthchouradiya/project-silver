@@ -1,0 +1,5 @@
+user: ""		#Enter SSH User Name
+password: ""		#Enter SSH User Password
+magento_version: ""	#Enter Magento Version (ex - 2.4.2)
+public_key: ""		#Enter Magento Public Key
+private_key: ""		#Enter Magento Private Key
